@@ -21,6 +21,10 @@ Head to the **[Releases](https://github.com/HamStationHQ/HamStation-Releases/rel
 
 Pre-release builds (alpha, beta, RC) are also published here and marked accordingly.
 
+Version Expiration:
+Dev versions expire after 24 hours and will close on start after expiration.
+All other versions expire after 30 days, but you may continue to use it for 10 mins at a time.
+
 ## Support & Community
 
 For help, questions, or feedback, visit us at **[hamstationhq.com](http://hamstationhq.com)**:
