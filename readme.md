@@ -23,7 +23,7 @@ Pre-release builds (alpha, beta, RC) are also published here and marked accordin
 
 ## Support & Community
 
-For help, questions, or feedback, visit us at **[hamstationhq.org](http://hamstationhq.org)**:
+For help, questions, or feedback, visit us at **[hamstationhq.com](http://hamstationhq.com)**:
 
 - 🎫 **Help Desk** — Submit a support ticket for technical issues or licensing questions
 - 💬 **Support Forums** — Browse community discussions, tips, and troubleshooting threads
