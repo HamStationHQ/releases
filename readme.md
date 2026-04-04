@@ -49,4 +49,4 @@ HamStation is proprietary software. See the [End User License Agreement](http://
 
 ---
 
-**Website:** [hamstationhq.org](http://hamstationhq.org) · **Publisher:** Ham Station
+**Website:** [hamstationhq.com](http://hamstationhq.com) · **Publisher:** Ham Station
