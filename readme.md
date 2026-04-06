@@ -1,13 +1,7 @@
 # HamStation — Official Releases
+**Source code is maintained in a private repository.** This repo contains release binaries only.
 
-[![Latest Release](https://img.shields.io/github/v/release/HamStationHQ/HamStation-Releases?include_prereleases&style=flat-square)](https://github.com/HamStationHQ/releases/releases)
-[![Downloads](https://img.shields.io/github/downloads/HamStationHQ/HamStation-Releases/total?style=flat-square)](https://github.com/HamStationHQ/releases/releases)
-
-This repository hosts official installer and package downloads for **HamStation** — a comprehensive amateur radio station management and logging application.
-
-> **Source code is maintained in a private repository.** This repo contains release binaries only.
-
-## Downloads
+This repository hosts official installer and package downloads for **HamStation** — a comprehensive amateur radio station management and logging application. 
 
 Head to the **[Releases](https://github.com/HamStationHQ/releases/releases)** page to download the latest version for your platform:
 
