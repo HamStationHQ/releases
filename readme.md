@@ -1,7 +1,7 @@
 # HamStation — Official Releases
 
-[![Latest Release](https://img.shields.io/github/v/release/HamStationHQ/HamStation-Releases?include_prereleases&style=flat-square)](https://github.com/HamStationHQ/HamStation-Releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/HamStationHQ/HamStation-Releases/total?style=flat-square)](https://github.com/HamStationHQ/HamStation-Releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/HamStationHQ/HamStation-Releases?include_prereleases&style=flat-square)](https://github.com/HamStationHQ/releases/releases)
+[![Downloads](https://img.shields.io/github/downloads/HamStationHQ/HamStation-Releases/total?style=flat-square)](https://github.com/HamStationHQ/releases/releases)
 
 This repository hosts official installer and package downloads for **HamStation** — a comprehensive amateur radio station management and logging application.
 
@@ -9,7 +9,7 @@ This repository hosts official installer and package downloads for **HamStation*
 
 ## Downloads
 
-Head to the **[Releases](https://github.com/HamStationHQ/HamStation-Releases/releases)** page to download the latest version for your platform:
+Head to the **[Releases](https://github.com/HamStationHQ/releases/releases)** page to download the latest version for your platform:
 
 | Platform | File |
 |---|---|
