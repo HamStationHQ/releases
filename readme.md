@@ -3,7 +3,7 @@
 
 This repository hosts official installer and package downloads for **HamStation** — a comprehensive amateur radio station management and logging application. 
 
-Head to the **[Releases](https://github.com/HamStationHQ/releases/releases)** page to download the latest version for your platform:
+Head to the **[Releases](https://github.com/HamStationHQ/releases/tags)** page to download the latest version for your platform:
 
 | Platform | File |
 |---|---|
